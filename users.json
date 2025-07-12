@@ -1,0 +1,127 @@
+{
+  "30801": {
+    "name": "김도현",
+    "password": "30801",
+    "role": "student"
+  },
+  "30802": {
+    "name": "김도훈",
+    "password": "30802",
+    "role": "student"
+  },
+  "30803": {
+    "name": "김민재",
+    "password": "30803",
+    "role": "student"
+  },
+  "30804": {
+    "name": "남한서",
+    "password": "30804",
+    "role": "student"
+  },
+  "30805": {
+    "name": "문성현",
+    "password": "30805",
+    "role": "student"
+  },
+  "30806": {
+    "name": "박재민",
+    "password": "30806",
+    "role": "student"
+  },
+  "30807": {
+    "name": "박정근",
+    "password": "30807",
+    "role": "student"
+  },
+  "30808": {
+    "name": "박태현",
+    "password": "30808",
+    "role": "student"
+  },
+  "30809": {
+    "name": "송민건",
+    "password": "30809",
+    "role": "student"
+  },
+  "30810": {
+    "name": "신동근",
+    "password": "30810",
+    "role": "student"
+  },
+  "30811": {
+    "name": "양건영",
+    "password": "30811",
+    "role": "student"
+  },
+  "30812": {
+    "name": "이시원",
+    "password": "30812",
+    "role": "student"
+  },
+  "30813": {
+    "name": "이우현",
+    "password": "30813",
+    "role": "student"
+  },
+  "30814": {
+    "name": "이정호",
+    "password": "30814",
+    "role": "student"
+  },
+  "30815": {
+    "name": "이지범",
+    "password": "30815",
+    "role": "student"
+  },
+  "30816": {
+    "name": "장원율",
+    "password": "30816",
+    "role": "student"
+  },
+  "30817": {
+    "name": "전주영",
+    "password": "30817",
+    "role": "student"
+  },
+  "30818": {
+    "name": "정선우",
+    "password": "30818",
+    "role": "student"
+  },
+  "30819": {
+    "name": "정요셉",
+    "password": "30819",
+    "role": "student"
+  },
+  "30820": {
+    "name": "정재형",
+    "password": "30820",
+    "role": "student"
+  },
+  "30821": {
+    "name": "정해윤",
+    "password": "30821",
+    "role": "admin"
+  },
+  "30822": {
+    "name": "최영재",
+    "password": "30822",
+    "role": "student"
+  },
+  "30823": {
+    "name": "허동현",
+    "password": "30823",
+    "role": "student"
+  },
+  "30824": {
+    "name": "홍진기",
+    "password": "30824",
+    "role": "student"
+  },
+  "30825": {
+    "name": "황의림",
+    "password": "30825",
+    "role": "student"
+  }
+}

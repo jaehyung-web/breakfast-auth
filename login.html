@@ -1,0 +1,28 @@
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>로그인</title>
+  <style>
+    body { margin: 0; padding: 0; font-family: sans-serif; }
+    .container { max-width: 480px; margin: auto; padding: 16px; box-sizing: border-box; }
+    h2 { text-align: center; }
+    form { display: flex; flex-direction: column; gap: 12px; }
+    input[type="text"] { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box; }
+    button { width: 100%; padding: 12px; font-size: 16px; cursor: pointer; }
+    p.error { color: red; text-align: center; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>조식 인증 로그인</h2>
+    <form method="POST" action="/login">
+      <input type="text" name="id" placeholder="학번 입력" required>
+      <button type="submit">로그인</button>
+    </form>
+    {% if error %}
+      <p class="error">{{ error }}</p>
+    {% endif %}
+  </div>
+</body>
+</html>
